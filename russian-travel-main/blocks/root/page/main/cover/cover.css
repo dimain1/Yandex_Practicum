@@ -1,0 +1,13 @@
+@import url(__link/__link.css);
+@import url(__link/__background/__background.css);
+@import url(__link/__overlay/__overlay.css);
+@import url(__link/__main/__main.css);
+@import url(__link/__main/__title/__title.css);
+@import url(__link/__main/__subtitle/__subtitle.css);
+
+.cover {
+    position: relative;
+    margin-top: 92px;
+    max-height: 740px;
+    background-size: cover;
+}

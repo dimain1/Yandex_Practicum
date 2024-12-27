@@ -1,0 +1,13 @@
+@import url(__lang-link/__lang-link.css);
+@import url(__logo/__logo.css);
+@import url(__lang-link/_active/_active.css);
+
+.header {
+    display: flex;
+    width: 92.5%;
+    align-items: end;
+    height: 52px;
+    justify-content: space-between;
+    margin: auto;
+    margin-top: 28px;
+}

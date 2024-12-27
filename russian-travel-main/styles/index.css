@@ -1,0 +1,23 @@
+@import url(../vendor/normalize.css);
+@import url(../blocks/root/root.css);
+@import url(../blocks/root/page/page.css);
+@import url(../blocks/root/page/header/header.css);
+@import url(../blocks/root/page/main/main.css);
+@import url(../blocks/root/page/main/lead/lead.css);
+@import url(../blocks/root/page/main/intro/intro.css);
+@import url(../blocks/root/page/main/photo-grid/photo-grid.css);
+@import url(../blocks/root/page/main/places/places.css);
+@import url(../blocks/root/page/main/cover/cover.css);
+@import url(../blocks/root/page/footer/footer.css);
+
+@font-face {
+    font-family: "Inter";
+    src: url(./../fonts/Inter-Regular.woff2);
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: "Inter";
+    src: url(./../fonts/Inter-Black.woff2);
+    font-weight: bold;
+}

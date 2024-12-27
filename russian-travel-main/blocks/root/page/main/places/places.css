@@ -1,0 +1,27 @@
+@import url(__place/__place.css);
+@import url(__place/__title/__title.css);
+@import url(__place/__website/__website.css);
+@import url(__place/__website/__url-heading/__url-heading.css);
+@import url(__place/__website/__link/__link.css);
+@import url(__place/__image/__image.css);
+@import url(__place/__text/__text.css);
+@import url(__place/__text/__paragraph/__paragraph.css);
+
+.places {
+    max-width: 984px;
+    margin: auto;
+    margin-top: 92px;
+}
+
+@media screen and (max-width: 1024px) {
+    .places {
+        width: 90%;
+    }
+}
+
+@media screen and (max-width: 360px) {
+    .places {
+        display: block;
+        position: relative;
+    }
+}

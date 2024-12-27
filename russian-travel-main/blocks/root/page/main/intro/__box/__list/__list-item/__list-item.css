@@ -1,0 +1,7 @@
+@import url(_bold/_bold.css);
+
+.intro__list-item {
+    font-size: 12px;
+    line-height: 18px;
+    letter-spacing: 0%;
+}
